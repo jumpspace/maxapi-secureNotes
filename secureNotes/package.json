@@ -1,0 +1,18 @@
+{
+  "name": "securenotes",
+  "version": "1.0.0",
+  "description": "Set all Maximizer notes to the security group of the corresponding parent address book entry",
+  "main": "setSecureNotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "security"
+  ],
+  "author": "Patrick Wong",
+  "license": "ISC",
+  "dependencies": {
+    "securenotes": "file:"
+  }
+}
